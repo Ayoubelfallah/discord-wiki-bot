@@ -17,11 +17,11 @@ https://github.com/user-attachments/assets/892d9a8b-ed2d-4580-b8dc-965474873966
 
 ## 🗂 Folder Structure
 📦 discord-wiki-bot/
--main.py
--faq_data.json
+- main.py
+- faq_data.json
 - .env
 - requirements.txt
--README.md
+- README.md
 
 ## 🚀 How to Run
 
